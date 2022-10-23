@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kliningjr (Kurt Lining)
 - 👀 I’m interested in data visualization (Tableau, PowerBI)
-- 🌱 I’m currently learning html, CSS, and JavaScript.
+- 🌱 I’m currently learning html, CSS, and JavaScript on LinkedIn Learning.
 - 💞️ I’m still figuring out GitHub but may be looking to collaborate on projects later.
 - 📫 How to reach me: kliningjr@gmail.com
 
