@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @kliningjr (Kurt Lining)
-- 👀 I’m interested in data analysis and visualization (SQL, Tableau, PowerBI, D3.js)
-- 🌱 I’m currently learning html, CSS, and JavaScript on LinkedIn Learning.
+- 👋 Hi, I’m @kliningjr (Kurt Lining). I am:
+  - 👀 Proficient in data analysis and visualization (SQL, Tableau, PowerBI, Markdown, Mermaid)
+  - 🌱 Currently learning html, CSS, JavaScript, and D3.js
+  - 🧠 Passionate about Personal Knowledge Management (PKM) systems
+  - 🦾 Using AI to develop PKM systems that help analysts manage analytic and investigative workflows
 - 📫 How to reach me: kliningjr@gmail.com
 - 💼 Portfolio: https://kliningjr.github.io/portfolio/
 
